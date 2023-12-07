@@ -404,7 +404,9 @@ a.dropdown-item:hover {
 .courcess span,
 .events span,
 .Testmonials-1 span,
-.pricing span{
+.pricing span,
+.testmonial span,
+.latest-news span{
     font-weight: 700;
     font-size: 20px;
     color: #F94528;
@@ -425,7 +427,9 @@ a.dropdown-item:hover {
 .courcess h2,
 .events h2,
 .Testmonials-1 h2,
-.pricing h2{
+.pricing h2,
+.testmonial h2,
+.latest-news h2{
     font-size: 45px;
     margin-top: 20px;
     margin-bottom: 20px;
